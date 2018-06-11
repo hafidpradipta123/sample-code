@@ -1,4 +1,4 @@
-# sample-code
+# sample-code Stack Overflow 2018 Developer Survey
 
 Stack Overflow 2018 Developer Survey Shiny App. Personal Project. 
 This is the app to summarize the stack overflow survey from kaggle. 
